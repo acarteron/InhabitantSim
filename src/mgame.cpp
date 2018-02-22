@@ -7,7 +7,7 @@
 
 #include "Rectangle.hh"
 #include "map.hh"
-#include "prologparse.hh"
+#include "prologparse.hpp"
 #include <vector>
 #include <cmath>
 

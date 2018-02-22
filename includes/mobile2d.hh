@@ -4,7 +4,7 @@
 #include "controle.hh"
 #include "parameters.hh"
 #include "still2d.hh"
-#include "prologparse.hh"
+#include "prologparse.hpp"
 //#include "Rectangle.hh"
 
 // template <class T1, class T2>
