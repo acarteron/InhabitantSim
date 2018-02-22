@@ -6,7 +6,7 @@ mobile2d::mobile2d(){
 }
 mobile2d::mobile2d(prologparse * plparse_){
   plparse=plparse_;
-  std::cout<<"sda"<<std::endl;
+  //std::cout<<"sda"<<std::endl;
   //    plparse_->resetPl();
 
   //plparse_->rule("inter");
