@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <vector>
-#include <opencv2/opencv.hpp>
+#include <opencv4/opencv2/opencv.hpp>
 #include "still2d.hh"
 #include "Tools.hpp"
 #include "files.hh"
